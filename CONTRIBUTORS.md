@@ -8,3 +8,8 @@ GITHUB USERNAME - Te-da-ni
 NAME - Mustapha jamiu
 MATRIC NUMBER - U22CS1071
 GITHUB USERNAME - musty-000
+
+
+Name:Umar Abdulkadir 
+Matric No: U23CS2002
+GitHib Username: Umarmanager19
