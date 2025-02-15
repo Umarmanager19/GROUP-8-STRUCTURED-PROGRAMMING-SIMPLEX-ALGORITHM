@@ -12,4 +12,4 @@ GITHUB USERNAME - musty-000
 
 Name:Umar Abdulkadir 
 Matric No: U23CS2002
-GitHib Username: Umarmanager19
+GitHub Username: Umarmanager19
